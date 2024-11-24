@@ -379,6 +379,9 @@ header {
   padding: 2rem;
 }
 @media (min-width: 768px) {
+  .lazy-loaded-image {
+    max-width: 180px !important;
+  }
   .hero-banner .content-box {
     width: 50%;
   }
